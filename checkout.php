@@ -313,7 +313,7 @@ if(!isset($_SESSION['cart_p_id'])) {
                                 <div class="row">
 
                                     <div class="col-md-12 form-group">
-                                        <label for=""><?php echo LANG_VALUE_34; ?> *</label>
+                                       <!--  <label for=""><?php echo LANG_VALUE_34; ?> *</label> -->
                                         <select name="payment_method" class="form-control select2" id="advFieldsStatus">
                                             <option value="Bank Deposit"><?php echo LANG_VALUE_38; ?></option> -->
                                         </select>
