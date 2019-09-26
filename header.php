@@ -114,13 +114,13 @@ foreach ($result as $row) {
 	
 	  gtag('config', 'UA-135069131-1');
 	</script>
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<script>
 	     (adsbygoogle = window.adsbygoogle || []).push({
 	          google_ad_client: "ca-pub-1428192065469281",
 	          enable_page_level_ads: true
 	     });
-	</script>
+	</script> -->
 
 	<?php
 
